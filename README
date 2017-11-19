@@ -1,0 +1,8 @@
+Where to begin:
+---------------
+To Start the application from Console:
+	Go to the root folder and give the command "mvn spring-boot:run"
+
+To Start From IDE:
+
+1) Start the EventTrackingApplication - Runs on port 8081 by default (the port number can be overridden in application.properties) 
